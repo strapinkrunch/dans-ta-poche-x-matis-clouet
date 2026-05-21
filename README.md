@@ -69,7 +69,7 @@ L'assistant doit répondre dans le ton de Matis, en citant les sources.
 
 ## Précisions sur les sources
 
-- Les transcripts YouTube vont **du début de la chaîne jusqu'à début mai 2026**
+- Les transcripts YouTube vont **du début de la chaîne jusqu'à début mai 2026 (vidéo + shorts)**
 - Les posts LinkedIn couvrent **tout l'historique du compte jusqu'à début mai 2026**
 - Le tone of voice a été extrait par analyse de l'ensemble de ces contenus
 
