@@ -1,4 +1,4 @@
-# Assistant Matis Clouet — Projet Claude
+# Dans ta poche x Matis Clouet — Projet Claude
 
 Un assistant conversationnel qui incarne la connaissance, les idées et la manière de penser de **Matis Clouet** — entrepreneur français, fondateur de The Ecosystem et Archimède Capital, spécialiste du scaling d'offres high-ticket pour agences, coachs et consultants.
 
